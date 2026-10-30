@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrivaVR</string>
+    <string name="screen_mirror_service_name">PrivaVR Screen Mirroring</string>
+    <string name="screen_mirror_service_desc">Secure on-device screen projection to VR theater active</string>
+    <string name="privacy_guarantee_title">100% On-Device Privacy</string>
+    <string name="privacy_guarantee_subtitle">Zero network transmission. Hardware-isolated framebuffer.</string>
+</resources>

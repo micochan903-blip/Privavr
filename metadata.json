@@ -1,0 +1,6 @@
+{
+  "name": "PrivaVR Screen",
+  "description": "A minimalist, privacy-focused virtual reality app that projects your live phone screen onto a massive cinema display with head tracking and fullscreen VR modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
